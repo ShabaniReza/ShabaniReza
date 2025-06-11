@@ -10,7 +10,9 @@
   </h5>
 </div>
 
-![Alt text for the GIF](media/octocat.png)
+<p align="center">
+<img src="media/octocat.png" width="50%" height="auto" align='center, !important'>
+</p>
 
 ---
 

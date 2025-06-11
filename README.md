@@ -10,6 +10,7 @@
   </h5>
 </div>
 
+![Alt text for the GIF](media/octocat.png)
 
 ---
 

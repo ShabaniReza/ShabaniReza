@@ -14,6 +14,8 @@
 <img src="media/octocat.png" width="50%" height="auto" align='center, !important'>
 </p>
 
+![Snake animation](https://github.com/ShabaniReza/ShabaniReza/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 

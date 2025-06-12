@@ -1,17 +1,18 @@
-<div align="center">
-  <h1>
-    Hi there 👋, I am Reza Shabani ✨
-  </h1>
-</div>
+<p align="center">
+<img src="media/header.png" align='center'>
+</p>
 
 <div align="center">
-  <h5>
-    💻 A passionate Junior Backend Developer focused on Django & Django REST Framework 🇮🇷
-  </h5>
+  <h1>
+    Hey everyone 👋
+  </h1>
+  <h2>
+    I am Reza Shabani , A passionate Junior Backend Developer focused on Django & Django REST Framework 🇮🇷
+  </h2>
 </div>
 
 <p align="center">
-<img src="media/octocat.png" width="50%" height="auto" align='center, !important'>
+<img src="media/octocat.png" width="50%" height="auto" align='center'>
 </p>
 
 ---
@@ -51,7 +52,7 @@
 
 ### 🌐 Connect with me
 
-- Linkedin : https://www.likedin.com/in/rezashabani27
+- Linkedin : https://www.linkedin.com/in/rezashabani27
 - Email: rshabani.27.1001@gmail.com
 
 ---

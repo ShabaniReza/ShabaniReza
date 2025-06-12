@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi there 👋, I am Reza Shabani
+    Hi there 👋, I am Reza Shabani ✨
   </h1>
 </div>
 
@@ -47,7 +47,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=merko)](https://git.io/streak-stats)
 
 <!--
-✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

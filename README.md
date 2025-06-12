@@ -60,7 +60,7 @@
 ### :octocat: My GitHub Activity
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShabaniReza&show_icons=true&theme=merko&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShabaniReza&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShabaniReza&theme=merko)](https://git.io/streak-stats)
 
 <!--
 Here are some ideas to get you started:
